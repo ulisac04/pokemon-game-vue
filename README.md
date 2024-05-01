@@ -1,6 +1,6 @@
-# Pokémon Adventure Game
+# Guess the pokemon
 
-¡Bienvenido al Pokémon Adventure Game!
+¡Bienvenido a Guess the pokemon!
 
 Este es un juego de adivinanzas basado en el emocionante mundo de Pokémon, donde podrás poner a pruebas tus conocimientos
 
