@@ -1,6 +1,19 @@
-# 04-pokemonn-game
+# Pokémon Adventure Game
 
-## Project setup
+¡Bienvenido al Pokémon Adventure Game!
+
+Este es un juego de adivinanzas basado en el emocionante mundo de Pokémon, donde podrás poner a pruebas tus conocimientos
+
+
+## Capturas de pantalla
+
+![Captura de pantalla 1](screenshots/wrong.png)
+![Captura de pantalla 2](screenshots/correct.png)
+
+
+##
+1) Clona el repo
+2) Sigue estos pasos
 ```
 yarn install
 ```
@@ -14,11 +27,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
