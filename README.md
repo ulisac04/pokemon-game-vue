@@ -18,12 +18,6 @@ Este es un juego de adivinanzas basado en el emocionante mundo de Pokémon, dond
 yarn install
 ```
 
-### Compiles and hot-reloads for development
 ```
 yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
 ```
